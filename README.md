@@ -11,7 +11,7 @@ If we meet some day, I will surely tell you about <a href="https://en.wikipedia.
 <h2 align="center">Did you checkout my website <a href="http://www.bauva.com">Bauva.com</a>?</h2>
 <br>
 
-### What I am doing in software engineering?
+### What I am doing as a software engineer?
  - I am writing Elm for writing frontend and [I have never been this happy](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
  -  I am writing Rust for backend and let the compiler do it's thing
 
