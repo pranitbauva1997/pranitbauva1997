@@ -7,6 +7,8 @@ Oh and I am not just interested in doubling my money, if that's what you are thi
 <p align="center">
 If we meet some day, I will surely tell you about <a href="https://en.wikipedia.org/wiki/Rule_of_72">The Rule of 72</a>.
 </p>
+<br>
+<h2 align="center">Did you checkout my website <a href="http://www.bauva.com">Bauva.com</a>?</h2>
 <br><br>
 
 ### What I am doing in software engineering?
