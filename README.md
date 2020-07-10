@@ -7,7 +7,7 @@ Oh and I am not just interested in doubling my money, if that's what you are thi
 <p align="center">
 If we meet some day, I will surely tell you about <a href="https://en.wikipedia.org/wiki/Rule_of_72">The Rule of 72</a>.
 </p>
-<br><br>
+<br align="center"><br>
 <h3>What I am doing in software engineering?</h3>
 <div align="center">
   <ul>
@@ -16,7 +16,7 @@ If we meet some day, I will surely tell you about <a href="https://en.wikipedia.
   </ul>
 </div>
 
-<h3>What I am doing as an investor?</h3>
+<h3 align="center">What I am doing as an investor?</h3>
 <div align="center">
   <ul>
     <li> I read Annual Reports & Quarterly Reports to keep a track of what my portfolio companies and their competitors are doing </li>
