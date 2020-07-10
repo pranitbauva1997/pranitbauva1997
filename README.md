@@ -1,5 +1,5 @@
 <p align="center">
-  I am a Software Engineer and a strong believer in the power of compounding. With a growth mindset I keep pondering about <b>"How fast do I double?"</b> day in and day out.
+  I am a Software Engineer, a long-term thinker and a strong believer in the power of compounding. With a growth mindset I keep pondering about <b>"How fast do I double?"</b> day in and day out.
 </p>
 <p align="center">
 Oh and I am not just interested in doubling my money, if that's what you are thinking. I am more interested in doubling my knowledge, skill set, experience & network.
