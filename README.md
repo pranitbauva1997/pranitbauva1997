@@ -12,7 +12,7 @@ If we meet some day, I will surely tell you about <a href="https://en.wikipedia.
 <br>
 
 ### What I am doing as a software engineer?
- - I am writing Elm for writing frontend and [I have never been this happy](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
+ - I am writing Elm for frontend and [I have never been this happy](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
  -  I am writing Rust for backend and let the compiler do it's thing
 
 ### What I am doing as an investor?
