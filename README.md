@@ -9,7 +9,7 @@ If we meet some day, I will surely tell you about <a href="https://en.wikipedia.
 </p>
 <br>
 <h2 align="center">Did you checkout my website <a href="http://www.bauva.com">Bauva.com</a>?</h2>
-<br><br>
+<br>
 
 ### What I am doing in software engineering?
  - I am writing Elm for writing frontends and I have never been this happy
