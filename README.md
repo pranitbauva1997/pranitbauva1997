@@ -7,8 +7,8 @@ Oh and I am not just interested in doubling my money, if that's what you are thi
 <p align="center">
 If we meet some day, I will surely tell you about <a href="https://en.wikipedia.org/wiki/Rule_of_72">The Rule of 72</a>.
 </p>
-<br align="center"><br>
-<h3>What I am doing in software engineering?</h3>
+<br><br>
+<h3 align="center">What I am doing in software engineering?</h3>
 <div align="center">
   <ul>
     <li> I am writing Elm for writing frontends and I have never been this happy </li>
