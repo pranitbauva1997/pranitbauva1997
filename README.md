@@ -17,4 +17,4 @@ If we meet some day, I will surely tell you about <a href="https://en.wikipedia.
 
 ### What I am doing as an investor?
  - I read Annual Reports & Quarterly Reports to keep a track of what my portfolio companies and their competitors are doing
- - The over-arching theme for my portfolio is financials as I believe that financial firms (providers of the scare capital) are one of the growth engines of emerging markets.
+ - The over-arching theme for my portfolio is financials as I believe that financial firms (dealers of the scarce resource) are one of the growth engines of emerging markets.
