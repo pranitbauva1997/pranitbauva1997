@@ -6,6 +6,8 @@ exercise which is a crucial component of Setu's systems to deliver
 information to customers and wished that this would be taken cared
 of by someone else. I now help such companies to focus on building
 their core competitive advantage and outsource webhooks parts to Nirah.
+The long-term mission for Nirah is to make server-to-server communications
+better and would approach that mission one product at a time.
 
 I have built the <a href="https://docs.setu.co/data/bav/reverse-penny-drop/quickstart">
 Reverse Penny Drop</a> product for Setu which can fetch account number and
