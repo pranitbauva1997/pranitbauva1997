@@ -1,4 +1,3 @@
-<p align="center">
 I am the founder of <a href="https://nirah.app">Nirah</a>. Nirah helps
 technology companies deliver and process real-time webhooks reliably
 with great concern for security and privacy. While working at Setu,
@@ -7,15 +6,13 @@ exercise which is a crucial component of our systems to deliver
 information to customers and wished that this would be taken cared
 of by someone else. I now help such companies to focus on building
 their core competitive advantage and outsource webhooks parts to Nirah.
-</p>
-<p align="center">
+
 I have built the <a href="https://docs.setu.co/data/bav/reverse-penny-drop/quickstart">
 Reverse Penny Drop</a> product for Setu which can fetch account number and
 IFSC by making a refundable Rs. 1 payment using UPI, helped it find
 product-market fit by talking to users to understand their workflows
 and pain points, and made it the highest margin product of Setu.
-</p>
-<p align="center">
+
 I have built the chatbot for handling customer support tickets to help
 Carousell transition from Zendesk and thus implement custom journeys
 as required by business and also enable significant cost savings.
