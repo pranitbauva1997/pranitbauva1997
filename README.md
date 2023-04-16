@@ -1,10 +1,18 @@
 I am the founder of <a href="https://nirah.app">Nirah</a>. Nirah helps
 technology companies deliver and process real-time webhooks reliably
-with great concern for security and privacy. While working at Setu,
-I discovered sending and processing webhooks to be a painful
-exercise which is a crucial component of Setu's systems to deliver
-information to customers and wished that this would be taken cared
-of by someone else. I now help such companies to focus on building
+with great concern for security and privacy.
+
+Webhooks are HTTP requests
+sent by a server which needs to communicate about a state change for e.g
+GitHub needs to communicate to CI/CD servers if a new commit is pushed,
+or Stripe needs to communicate if any payment was made, etc.
+Webhooks make pooling redundant i.e. one server doesn't need to keep
+asking the other server if they have any information which is valuable
+for them, instead the flow would be that the other server will notify
+every server who is supposed to keep listening about information.
+
+I now help such companies which utilize the power of event-driven
+architectures so that they can focus on building
 their core competitive advantage and outsource webhooks parts to Nirah.
 The long-term mission for Nirah is to make server-to-server communications
 better and would approach that mission one product at a time.
