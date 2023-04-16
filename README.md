@@ -21,9 +21,9 @@ as required by business and also enable significant cost savings.
 </p>
 
 Find out more about my past experiences on
-<a href="https://www.linkedin.com/in/pranitbauva/"> Linkedin</a>
+<a href="https://www.linkedin.com/in/pranitbauva/"> Linkedin</a>.
 <br>
-<h2 align="center">Did you checkout my website <a href="http://www.bauva.com">Bauva.com</a>?</h2>
+<h2 align="center">Did you checkout my website <a href="http://bauva.com">Bauva.com</a>?</h2>
 <br>
 
 ### What I am doing for Nirah?
