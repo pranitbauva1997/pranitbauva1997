@@ -13,7 +13,7 @@ IFSC by making a refundable Rs. 1 payment using UPI, helped it find
 product-market fit by talking to users to understand their workflows
 and pain points, and made it the highest margin product of Setu.
 
-I have built the chatbot for handling customer support tickets to help
+I have built the <a href="https://support.carousell.com/hc/en-us">chatbot</a> for handling customer support tickets to help
 Carousell transition from Zendesk and thus implement custom journeys
 as required by business and also enable significant cost savings.
 </p>
