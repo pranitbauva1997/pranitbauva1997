@@ -2,7 +2,7 @@ I am the founder of <a href="https://nirah.app">Nirah</a>. Nirah helps
 technology companies deliver and process real-time webhooks reliably
 with great concern for security and privacy. While working at Setu,
 I discovered sending and processing webhooks to be a painful
-exercise which is a crucial component of our systems to deliver
+exercise which is a crucial component of Setu's systems to deliver
 information to customers and wished that this would be taken cared
 of by someone else. I now help such companies to focus on building
 their core competitive advantage and outsource webhooks parts to Nirah.
